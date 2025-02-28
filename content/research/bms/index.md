@@ -12,8 +12,7 @@ summary: " "
 
 ##### Download
 
-+ [Paper](/BMS_AttentionInflationExpectations.pdf)
-
+[Paper](/BMS_AttentionInflationExpectations.pdf)
 ---
 
 ##### Abstract
