@@ -122,7 +122,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Etienne Briand"
-      icon: favicon.ico
+      icon: favicon2.ico
       iconHeight: 18
 
 markup:
