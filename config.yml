@@ -116,11 +116,10 @@ params:
           #url: https://twitter.com/McCallSmith
 
     assets:
-        favicon: "favicon.ico"
-        favicon16x16: "favicon-16x16.png"  # If you have this size
-        favicon32x32: "favicon-32x32.png"  # If you have this size
-        apple_touch_icon: "apple-touch-icon.png"  # If you have this
-        disableScrollBarStyle: true
+        #favicon: "favicon.ico"
+        #favicon16x16: "favicon-16x16.png"  # If you have this size
+        #avicon32x32: "favicon-32x32.png"  # If you have this size
+        #apple_touch_icon: "apple-touch-icon.png"  # If you have this
         disableScrollBarStyle: true
     cover:
         hiddenInList: false
