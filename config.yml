@@ -59,12 +59,12 @@ params:
     profileMode:
           enabled: true
           title: Etienne Briand
+          #I am also interested in macro modelling and Bayesian econometrics.
           subtitle: "
                **In 2024/2025, I am visiting @Cornell.**
                <br><br>
                I am a PhD candidate @UQAM. My main research interests are at the intersection of
-               macroeconomics and information economics (mostly rational inattention). I am also interested in macro modelling
-               and Bayesian econometrics.
+               macroeconomics and information economics (mostly rational inattention).
                <br><br>
                _\"One definition of an economist is somebody who sees something happen in practice and wonders
                if it will work in theory.\"_
@@ -76,8 +76,12 @@ params:
           buttons:
             - name: Research
               url: research/
-            #- name: Code
-              #url: https://github.com/etiennebriand
+            - name: Code
+              url: https://github.com/etiennebriand
+            - name: CV
+              url: cv.pdf
+            - name: Email
+              url: mailto:etiennebriand1@gmail.com
             #- name: Papers
               #url: papers/
             #- name: Courses
@@ -94,10 +98,10 @@ params:
               #url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:etiennebriand1@gmail.com
+        #- name: CV
+        #  url: cv.pdf
+        #- name: Email
+        #  url: mailto:etiennebriand1@gmail.com
         #- name: Zoom
           #url: https://www.zoom.us/my/igelfeld
         #- name: Location
@@ -106,8 +110,8 @@ params:
           #url: officehours/
         #- name: Google Scholar
           #url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/etiennebriand
+        #- name: GitHub
+          #url: https://github.com/etiennebriand
         #- name: Substack
           #url: https://pmichaillat.substack.com
         #- name: YouTube
