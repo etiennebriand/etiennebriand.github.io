@@ -71,8 +71,8 @@ params:
                Ronald Reagan (via Mike Wickens)
                "
           imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 220
+          imageHeight: 220
           buttons:
             - name: Research
               url: research/
