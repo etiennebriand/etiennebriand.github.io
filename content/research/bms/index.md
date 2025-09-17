@@ -10,8 +10,6 @@ summary: " "
 ---
 <!--##### Summary-->
 
-##### Download
-
 [Paper](/BMS_AttentionInflationExpectations.pdf)
 ---
 
