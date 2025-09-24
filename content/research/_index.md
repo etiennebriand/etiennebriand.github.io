@@ -5,6 +5,8 @@ cascade:
   _build:
     list: never
 ---
+ <!--Put the research statement link here...--> 
+For a brief overview of the papers listed below and other ongoing projects, see my [research statement](/research_statement.pdf).
 <!-- add 2 spaces to skip a line-->  
 ## Job Market Paper  
 [Rationally Inattentive Heterogenous Agents](/riha_v2.pdf)  

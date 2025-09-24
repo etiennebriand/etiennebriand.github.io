@@ -10,6 +10,9 @@ taxonomies:
 
 menu:
     main:
+        - name: CV
+          url: cv.pdf
+          weight: 1
         - name: Research
           url: research/
           weight: 1
@@ -62,13 +65,19 @@ params:
           #I am also interested in macro modelling and Bayesian econometrics.
           # **In 2024/2025, I am visiting @Cornell.**
            #<br><br>
+          #My research focuses on inequality, macroeconomics,
+          #and international economics (see my research statement).
+          #for a link: br><br>
+          #<a href='/riha_v2.pdf' target='_blank' style='text-decoration: underline;'>
+         # Download paper (PDF)
+         #</a>
           subtitle: "
                I am a PhD candidate @UQAM. My main research interests are at the intersection of
                macroeconomics and information economics (mostly rational inattention).
                <br><br>
-               _\"One definition of an economist is somebody who sees something happen in practice and wonders
-               if it will work in theory.\"_
-               Ronald Reagan (via Mike Wickens)
+               \"One definition of an economist is somebody who sees something happen in practice and wonders
+               if it will work in theory.\"
+               <br>Ronald Reagan (via Mike Wickens)
                "
           imageUrl: "picture.jpeg"
           imageWidth: 220
