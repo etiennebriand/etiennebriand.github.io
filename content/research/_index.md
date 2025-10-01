@@ -9,8 +9,8 @@ cascade:
 For a brief overview of the papers listed below and other ongoing projects, see my [research statement](/research_statement.pdf).
 <!-- add 2 spaces to skip a line-->  
 ## Job Market Paper  
-[Rationally Inattentive Heterogenous Agents](/riha_v2.pdf)  
-*Latest draft September 2025*
+[Rationally Inattentive Heterogenous Agents](/riha.pdf)  [[slides]](/riha_slides.pdf)  
+*Latest draft October 2025*
 
 ## Working Papers
  [Inflation, Attention and Expectations](/BMS_AttentionInflationExpectations.pdf)   

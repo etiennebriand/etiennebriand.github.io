@@ -1,4 +1,4 @@
-[Rationally Inattentive Heterogenous Agents](/riha_v2.pdf)  
+[Rationally Inattentive Heterogenous Agents](/riha.pdf)  
 (with ...)  
 *Latest draft September 2025*
 
