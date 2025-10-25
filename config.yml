@@ -71,12 +71,16 @@ params:
           #<a href='/riha_v2.pdf' target='_blank' style='text-decoration: underline;'>
          # Download paper (PDF)
          #</a>
+         ##<i> ..  #</i>
           subtitle: "
+              <br>
+              **I am on the 2025/2026 Job Market.**
+              <br><br>
                I am a PhD candidate @UQAM. My main research interests are at the intersection of
                macroeconomics and information economics (mostly rational inattention).
                <br><br>
-               \"One definition of an economist is somebody who sees something happen in practice and wonders
-               if it will work in theory.\"
+               \"<i>One definition of an economist is somebody who sees something happen in practice and wonders
+               if it will work in theory</i>.\"
                <br>Ronald Reagan (via Mike Wickens)
                "
           imageUrl: "picture.jpeg"
