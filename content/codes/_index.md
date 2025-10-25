@@ -5,7 +5,7 @@ cascade:
   _build:
     list: never
 ---
-For most of my work, I use [Julia](https://julialang.org/). On this page, I share programs I have written or translated from other languages that may be useful for macro theorists. One advantage of using Julia is that it’s often faster than languages like MATLAB, R, or Python.  
+For most of my work, I use [Julia](https://julialang.org/). On this page, I share programs I have written or translated from other languages that may be useful for macroeconomists. One advantage of using Julia is that it’s often faster than languages like MATLAB, R, or Python.  
 <!-- add 2 spaces to skip a line-->  
 ## <u>Codes</u>
 [[SolvOpt.jl]](https://github.com/etiennebriand/SOLVOPT.jl)
