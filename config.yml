@@ -10,14 +10,15 @@ taxonomies:
 
 menu:
     main:
-        - name: CV
-          url: cv.pdf
-          weight: 1
+        #- name: CV
+        #  url: cv.pdf
+        #  weight: 1
         - name: Research
           url: research/
           weight: 1
         - name: Codes
-          url: https://github.com/etiennebriand
+          url: codes/
+          #https://github.com/etiennebriand
           weight: 2
         #- name: Books
           #url: books/
@@ -89,8 +90,9 @@ params:
           buttons:
             - name: Research
               url: research/
-            - name: Code
-              url: https://github.com/etiennebriand
+            - name: Codes
+              url: codes/
+              #https://github.com/etiennebriand
             - name: CV
               url: cv.pdf
             - name: Email
