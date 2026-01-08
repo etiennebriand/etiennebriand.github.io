@@ -20,6 +20,10 @@ Graduate course, Concordia University, Winter 2026 <br>
 **Lecture 1: An Intro to Dynamic Stochastic General Equilibrium Models**  
 [[slides]](/lecture1.pdf) 
 
-**Lecture 2: An Introduction to Dynamic Programming**
+**Lecture 2: Dynamic Programming I**
 
-**Lecture 3: Numerically Solving Bellman Equations**
+**Lecture 3: Dynamic Programming II**
+
+**Lecture 4: Practical Dynamic Programming**
+
+**Lecture 5: Linearization**
