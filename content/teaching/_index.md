@@ -6,8 +6,7 @@ cascade:
     list: never
 ---
 
-<!-- add 2 spaces to skip a line-->  
-## <u>Courses taught @</u>
-...
-<sub>  
+**[ECON 695F Computational Economics]({{< relref "teaching/ECON695F/_index.md" >}})**  
+Graduate course, Concordia University, Winter 2026
+
 

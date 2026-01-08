@@ -20,9 +20,9 @@ menu:
           url: codes/
           #https://github.com/etiennebriand
           weight: 2
-        #- name: Books
-          #url: books/
-          #weight: 1
+        - name: Teaching
+          url: teaching/
+          weight: 3
         #- name: Papers
           #url: papers/
           #weight: 2
@@ -52,7 +52,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["research","codes"]
+    MainSections: ["research","codes", "teaching"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -63,6 +63,7 @@ params:
     profileMode:
           enabled: true
           title: Etienne Briand
+          #subtitle: "[etiennebriand1[at]gmail[dot]com]"
           #I am also interested in macro modelling and Bayesian econometrics.
           # **In 2024/2025, I am visiting @Cornell.**
            #<br><br>
@@ -73,6 +74,7 @@ params:
          # Download paper (PDF)
          #</a>
          ##<i> ..  #</i>
+         #  etiennebriand1[at]gmail[dot]com  <br>
           subtitle: "
               <br>
               **I am on the 2025/2026 Job Market.**
@@ -82,7 +84,7 @@ params:
                <br><br>
                \"<i>One definition of an economist is somebody who sees something happen in practice and wonders
                if it will work in theory</i>.\"
-               <br>Ronald Reagan (via Mike Wickens)
+               Ronald Reagan (via Mike Wickens)
                "
           imageUrl: "picture.jpeg"
           imageWidth: 220
@@ -93,6 +95,8 @@ params:
             - name: Codes
               url: codes/
               #https://github.com/etiennebriand
+            - name: Teaching
+              url: teaching/
             - name: CV
               url: cv.pdf
             - name: Email
