@@ -14,8 +14,7 @@ draft: false
 ECON 695F Computational Economics
 </span>   
 Graduate course, Concordia University, Winter 2026 <br>
-
-[[Syllabus]](/syllabus_sp26.pdf)  
+[[syllabus]](/syllabus_sp26.pdf)  
 
 **Lecture 1: An Intro to Dynamic Stochastic General Equilibrium Models**  
 [[slides]](/lecture1.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/perfect_foresight.ipynb)
