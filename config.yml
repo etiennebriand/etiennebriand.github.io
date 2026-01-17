@@ -62,7 +62,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Etienne Briand
+          title:  Etienne Briand
           #subtitle: "[etiennebriand1[at]gmail[dot]com]"
           #I am also interested in macro modelling and Bayesian econometrics.
           # **In 2024/2025, I am visiting @Cornell.**
@@ -76,7 +76,8 @@ params:
          ##<i> ..  #</i>
          #  etiennebriand1[at]gmail[dot]com  <br>
           subtitle: "
-              <br>
+             [<small><a href='mailto:etiennebriand1@gmail.com'><u style='text-decoration-color:#9b59b6;'>etiennebriand1@gmail.com</u></a></small>]
+              <br><br>
               **I am on the 2025/2026 Job Market.**
               <br><br>
                I am a PhD candidate @UQAM. My main research interests are at the intersection of
@@ -99,8 +100,8 @@ params:
               url: teaching/
             - name: CV
               url: cv.pdf
-            - name: Email
-              url: mailto:etiennebriand1@gmail.com
+            #- name: Email
+            #  url: mailto:etiennebriand1@gmail.com
             #- name: Papers
               #url: papers/
             #- name: Courses
