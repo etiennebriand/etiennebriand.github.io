@@ -19,7 +19,7 @@ Graduate course, Concordia University, Winter 2026 <br>
 **Lecture 1: An Intro to Dynamic Stochastic General Equilibrium Models**  
 [[slides]](/lecture1.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/perfect_foresight.ipynb)
 
-**Lecture 2: Dynamic Programming I**
+**Lecture 2: Dynamic Programming I**  
 [[slides]](/lecture2.pdf)
 
 **Lecture 3: Dynamic Programming II**
@@ -27,3 +27,13 @@ Graduate course, Concordia University, Winter 2026 <br>
 **Lecture 4: Practical Dynamic Programming**
 
 **Lecture 5: Linearization**
+
+**Lecture 6: Aiyagari Model**
+
+**Lecture 7: Krussel-Smith Model**
+
+**Lecture 8: New Keynesian Model**
+
+**Lecture 9: HANK Model**
+
+**Lecture 10: Estimation of DSGE Models**
