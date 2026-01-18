@@ -16,12 +16,12 @@ menu:
         - name: Research
           url: research/
           weight: 1
+        - name: Teaching
+          url: teaching/
+          weight: 2
         - name: Codes
           url: codes/
           #https://github.com/etiennebriand
-          weight: 2
-        - name: Teaching
-          url: teaching/
           weight: 3
         #- name: Papers
           #url: papers/
@@ -52,7 +52,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["research","codes", "teaching"]
+    MainSections: ["research","teaching","codes",]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -76,7 +76,9 @@ params:
          ##<i> ..  #</i>
          #  etiennebriand1[at]gmail[dot]com  <br>
           subtitle: "
-             [<small><a href='mailto:etiennebriand1@gmail.com'><u style='text-decoration-color:#9b59b6;'>etiennebriand1@gmail.com</u></a></small>]
+             [<small><a href='mailto:etiennebriand1@gmail.com'><u style='text-decoration-color:#9b59b6;'>etiennebriand1@gmail.com</u></a>]
+             &nbsp; [<a href='/cv.pdf'>
+      <u style='text-decoration-color:#9b59b6;'>CV</u> </a></small>]
               <br><br>
               **I am on the 2025/2026 Job Market.**
               <br><br>
@@ -86,20 +88,41 @@ params:
                \"<i>One definition of an economist is somebody who sees something happen in practice and wonders
                if it will work in theory</i>.\"
                Ronald Reagan (via Mike Wickens)
+               <br><br>
+               [
+               <a href='/research/'>
+               <u style='text-decoration-color:#9b59b6;'>Research</u>
+               </a>]
+               &nbsp;
+               [<a href='/teaching/'>
+                <span style='
+                text-decoration: underline;
+                text-decoration-color: #9b59b6;
+                text-underline-offset: 1px;
+                '>Teaching</span>
+                </a>]
+                 &nbsp;
+                 [<a href='/codes/'>
+                  <span style='
+                  text-decoration: underline;
+                  text-decoration-color: #9b59b6;
+                  text-underline-offset: 1px;
+                  '>Codes</span>
+                  </a>]
                "
           imageUrl: "picture.jpeg"
           imageWidth: 220
           imageHeight: 220
           buttons:
-            - name: Research
-              url: research/
-            - name: Codes
-              url: codes/
+            #- name: Research
+            #  url: research/
+            #- name: Teaching
+            #  url: teaching/
+            #- name: Codes
+            #  url: codes/
               #https://github.com/etiennebriand
-            - name: Teaching
-              url: teaching/
-            - name: CV
-              url: cv.pdf
+            #- name: CV
+            #  url: cv.pdf
             #- name: Email
             #  url: mailto:etiennebriand1@gmail.com
             #- name: Papers
