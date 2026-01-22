@@ -20,7 +20,7 @@ Graduate course, Concordia University, Winter 2026 <br>
 [[slides]](/lecture1.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/perfect_foresight.ipynb)
 
 **Lecture 2: Dynamic Programming I**  
-[[slides]](/lecture2.pdf)
+[[slides]](/lecture2.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/vfi.ipynb)
 
 **Lecture 3: Dynamic Programming II**
 
