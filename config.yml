@@ -76,9 +76,9 @@ params:
          ##<i> ..  #</i>
          #  etiennebriand1[at]gmail[dot]com  <br>
           subtitle: "
-             <small><a href='mailto:etiennebriand1@gmail.com'><u style='text-decoration-color:#9b59b6;'>[etiennebriand1@gmail.com]</u></a>
+             <small><a href='mailto:etiennebriand1@gmail.com'><u style='text-decoration-color:#9b59b6;text-underline-offset: 3px;'>[etiennebriand1@gmail.com]</u></a>
              &nbsp; <a href='/cv.pdf'>
-             <u style='text-decoration-color:#9b59b6;'>[CV]</u> </a></small>
+             <u style='text-decoration-color:#9b59b6;text-underline-offset: 3px;'>[CV]</u> </a></small>
               <br><br>
               **I am on the 2025/2026 Job Market.**
               <br><br>
@@ -91,14 +91,16 @@ params:
                Ronald Reagan (via Mike Wickens)
                <br><br>
                <a href='/research/'>
-               <u style='text-decoration-color:#9b59b6;'>[Research]</u>
+               <u style='text-decoration-color:#9b59b6;
+               text-underline-offset: 3px;
+               '>[Research]</u>
                </a>
                &nbsp;
                <a href='/teaching/'>
                 <span style='
                 text-decoration: underline;
                 text-decoration-color: #9b59b6;
-                text-underline-offset: 1px;
+                text-underline-offset: 3px;
                 '>[Teaching]</span>
                 </a>
                  &nbsp;
@@ -106,11 +108,11 @@ params:
                   <span style='
                   text-decoration: underline;
                   text-decoration-color: #9b59b6;
-                  text-underline-offset: 1px;
+                  text-underline-offset: 3px;
                   '>[Codes]</span>
                   </a>
                "
-               #NB: 3px underlines everything
+               #NB: 3px underlines everything, 1 is default
           imageUrl: "picture.jpeg"
           imageWidth: 220
           imageHeight: 220
