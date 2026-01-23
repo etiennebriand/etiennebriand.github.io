@@ -43,7 +43,7 @@ summary::-webkit-details-marker {
 <details>
   <summary>Macroeconomic Shocks and Their Propagation under Rational Inattention</summary>
 
-  We propose a comparison procedure that isolates the differential effects arising from propagation mechanisms in DSGE models. We apply it to assess whether the predictions of a model with rational inattention are similar to that of a medium-scale New Keynesian model. The models are contrasted in terms of their likelihoods and impulse response functions across macroeconomic shocks that are untargeted in the procedure. [...] We conclude that inertia in prices and quantities due to inattention and adjustment frictions leads to different conclusions about the main sources of business cycles and their propagation.
+ We study the propagation of macroeconomic shocks in DSGE models featuring different propagation mechansims. We compare a model in which rational inattention is the sole source of inertial responses in prices and quantities to a benchmark New Keynesian model. We find that the same shocks produce markedly different dynamics depending on whether the economy’s response is governed by information frictions or by adjustment costs. Moreover, the two models yield distinct predictions regarding the primary sources of business cycles.
 </details>
 
 *Draft available upon request*  

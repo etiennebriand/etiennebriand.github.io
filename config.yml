@@ -76,40 +76,41 @@ params:
          ##<i> ..  #</i>
          #  etiennebriand1[at]gmail[dot]com  <br>
           subtitle: "
-             [<small><a href='mailto:etiennebriand1@gmail.com'><u style='text-decoration-color:#9b59b6;'>etiennebriand1@gmail.com</u></a>]
-             &nbsp; [<a href='/cv.pdf'>
-      <u style='text-decoration-color:#9b59b6;'>CV</u> </a></small>]
+             <small><a href='mailto:etiennebriand1@gmail.com'><u style='text-decoration-color:#9b59b6;'>[etiennebriand1@gmail.com]</u></a>
+             &nbsp; <a href='/cv.pdf'>
+             <u style='text-decoration-color:#9b59b6;'>[CV]</u> </a></small>
               <br><br>
               **I am on the 2025/2026 Job Market.**
               <br><br>
                I am a PhD candidate @UQAM. My main research interests are at the intersection of
-               macroeconomics and information economics (mostly rational inattention).
+               macroeconomics and information economics (mostly rational inattention). More generally, I am interested in
+               how expectations shape economic outcomes.
                <br><br>
                \"<i>One definition of an economist is somebody who sees something happen in practice and wonders
                if it will work in theory</i>.\"
                Ronald Reagan (via Mike Wickens)
                <br><br>
-               [
                <a href='/research/'>
-               <u style='text-decoration-color:#9b59b6;'>Research</u>
-               </a>]
+               <u style='text-decoration-color:#9b59b6;'>[Research]</u>
+               </a>
                &nbsp;
-               [<a href='/teaching/'>
+               <a href='/teaching/'>
                 <span style='
                 text-decoration: underline;
                 text-decoration-color: #9b59b6;
                 text-underline-offset: 1px;
-                '>Teaching</span>
-                </a>]
+                '>[Teaching]</span>
+                </a>
                  &nbsp;
-                 [<a href='/codes/'>
+                 <a href='/codes/'>
                   <span style='
                   text-decoration: underline;
                   text-decoration-color: #9b59b6;
                   text-underline-offset: 1px;
-                  '>Codes</span>
-                  </a>]
+                  '>[Codes]</span>
+                  </a>
                "
+               #NB: 3px underlines everything
           imageUrl: "picture.jpeg"
           imageWidth: 220
           imageHeight: 220
