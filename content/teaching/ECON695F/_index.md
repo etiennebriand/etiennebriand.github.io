@@ -16,6 +16,8 @@ ECON 695F Computational Economics
 Graduate course, Concordia University, Winter 2026 <br>
 [[syllabus]](/syllabus_w26.pdf)  
 
+[[Julia cheatsheet]](https://cheatsheets.quantecon.org/julia-cheatsheet.html)
+
 **Lecture 1: An Intro to Dynamic Stochastic General Equilibrium Models**  
 [[slides]](/lecture1.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/perfect_foresight.ipynb)
 
@@ -23,10 +25,13 @@ Graduate course, Concordia University, Winter 2026 <br>
 [[slides]](/lecture2.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/vfi.ipynb)
 
 **Lecture 3: Dynamic Programming II**
+[[slides]](/lecture3.pdf) 
 
 **Lecture 4: Practical Dynamic Programming**
 
 **Lecture 5: Linearization**
+
+**Midterm Exam"*
 
 **Lecture 6: Aiyagari Model**
 
@@ -37,3 +42,5 @@ Graduate course, Concordia University, Winter 2026 <br>
 **Lecture 9: HANK Model**
 
 **Lecture 10: Estimation of DSGE Models**
+
+**Final Exam"*
