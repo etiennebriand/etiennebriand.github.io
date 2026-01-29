@@ -23,7 +23,7 @@ Graduate course, Concordia University, Winter 2026 <br>
 [[slides]](/lecture2.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/vfi.ipynb)
 
 **Lecture 3: Dynamic Programming II**  
-[[slides]](/lecture3.pdf) 
+[[slides]](/lecture3.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/vfi_stochastic.ipynb)
 
 **Lecture 4: Practical Dynamic Programming**
 
@@ -42,5 +42,6 @@ Graduate course, Concordia University, Winter 2026 <br>
 **Lecture 10: Estimation of DSGE Models**
 
 **Problem Set (homework)**
+[[*Micro Jumps, Macro Humps*,  Auclert, Rognlie and Straub (2020)]](https://web.stanford.edu/~aauclert/mjmh.pdf)
 
 **Final Exam**
