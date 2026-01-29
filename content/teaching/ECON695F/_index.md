@@ -42,6 +42,6 @@ Graduate course, Concordia University, Winter 2026 <br>
 **Lecture 10: Estimation of DSGE Models**
 
 **Homework**  
-[Micro Jumps, Macro Humps*,  Auclert, Rognlie and Straub (2020)](https://web.stanford.edu/~aauclert/mjmh.pdf)
+[*Micro Jumps, Macro Humps*,  Auclert, Rognlie and Straub (2020)](https://web.stanford.edu/~aauclert/mjmh.pdf)
 
 **Final Exam**
