@@ -33,7 +33,7 @@ Graduate course, Concordia University, Winter 2026 <br>
 **Lecture 6: Aiyagari Model**
 
 **Midterm Exam**  
-<small>The exam will be held on February 24<sup>th</sup> and will cover Lectures 1–5.</small>
+<small>The exam will be held on March 10<sup>th</sup> and will cover Lectures 1–5.</small>
 
 **Lecture 7: Krussel-Smith Model**
 
