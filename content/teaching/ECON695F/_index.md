@@ -26,7 +26,7 @@ Graduate course, Concordia University, Winter 2026 <br>
 [[slides]](/lecture3.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/vfi_stochastic.ipynb)
 
 **Lecture 4: Practical Dynamic Programming**  
-[[slides]](/lecture4.pdf) 
+[[slides]](/lecture4.pdf) [[notebook 1]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/pfi_stochastic.ipynb) [[notebook 2]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/ann_value_function.ipynb)
 
 **Lecture 5: Linearization**
 
