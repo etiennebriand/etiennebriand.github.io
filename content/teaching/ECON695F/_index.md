@@ -11,8 +11,7 @@ draft: false
     text-decoration-thickness: 2px;
     text-underline-offset: 4px;
 ">
-ECON 695F Computational Economics
-</span>   
+ECON 695F Computational Economics  
 Graduate course, Concordia University, Winter 2026 <br>
 [[syllabus]](/syllabus_w26.pdf)  [[Julia cheatsheet]](https://cheatsheets.quantecon.org/julia-cheatsheet.html)
 
