@@ -24,7 +24,8 @@ Graduate course, Concordia University, Winter 2026
 **Lecture 4: Practical Dynamic Programming**  
 [[slides]](/lecture4.pdf) [[notebook 1]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/pfi_stochastic.ipynb) [[notebook 2]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/ann_value_function.ipynb)
 
-**Lecture 5: Linearization**
+**Lecture 5: Linearization**  
+[[slides]](/lecture5.pdf) 
 
 **Lecture 6: Aiyagari Model**
 
