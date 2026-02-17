@@ -25,12 +25,13 @@ Graduate course, Concordia University, Winter 2026
 [[slides]](/lecture4.pdf) [[notebook 1]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/pfi_stochastic.ipynb) [[notebook 2]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/ann_value_function.ipynb)
 
 **Lecture 5: Linearization**  
-[[slides]](/lecture5.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/RBC.ipynb)
-
-**Lecture 6: Aiyagari Model**
+[[slides]](/lecture5.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/RBC.ipynb)  
 
 **Midterm Exam**  
 <small>The exam will be held on March 10<sup>th</sup>, 2:45pm–4pm, and will cover Lectures 1–5. It will include a take-home part due next class.</small>
+
+**Lecture 6: Aiyagari Model**
+[[slides]](/lecture5.pdf) 
 
 **Lecture 7: Krussel-Smith Model**
 
