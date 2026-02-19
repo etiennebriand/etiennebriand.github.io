@@ -31,7 +31,7 @@ Graduate course, Concordia University, Winter 2026
 <small>The exam will be held on March 10<sup>th</sup>, 2:45pm–4pm, and will cover Lectures 1–5. It will include a take-home part due next class.</small>
 
 **Lecture 6: Aiyagari Model**  
-[[slides]](/lecture6.pdf) 
+[[slides]](/lecture6.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/aiyagari.ipynb)
 
 **Lecture 7: Krussel-Smith Model**
 
