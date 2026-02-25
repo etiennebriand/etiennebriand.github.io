@@ -44,7 +44,7 @@ Graduate course, Concordia University, Winter 2026
 
 **Homework**  
 [*Micro Jumps, Macro Humps*,  Auclert, Rognlie and Straub (2020)](https://web.stanford.edu/~aauclert/mjmh.pdf)  
-[[Problem Set]](/homework.pdf) 
+[[problem set]](/homework.pdf) 
 
 **Final Exam**  
 <small>The exam will be held on April 22<sup>nd</sup>, 10am–1pm, and will cover all lectures.</small>
