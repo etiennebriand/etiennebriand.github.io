@@ -34,7 +34,7 @@ Graduate course, Concordia University, Winter 2026
 [[slides]](/lecture6.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/aiyagari.ipynb)
 
 **Lecture 7: Krussel-Smith Model**  
-[[slides]](/lecture7.pdf) [[notebook]]((https://github.com/etiennebriand/ComputationalEconomics/blob/main/KrusellSmith.ipynb)
+[[slides]](/lecture7.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/KrusellSmith.ipynb)
 
 **Lecture 8: New Keynesian Model**
 
