@@ -28,7 +28,7 @@ Graduate course, Concordia University, Winter 2026
 [[slides]](/lecture5.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/RBC.ipynb)  
 
 **Midterm Exam**  
-<small>The exam will be held on March 10<sup>th</sup>, 2:45pm–4pm, and will cover Lectures 1–5. It will include a take-home part due next class.</small>
+<small>The exam will be held on March 10<sup>th</sup>, 2:45pm–4pm, and will cover Lectures 1–5. It will include a take-home part due next Tuesday class.</small>
 
 **Lecture 6: Aiyagari Model**  
 [[slides]](/lecture6.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/aiyagari.ipynb)
@@ -38,7 +38,9 @@ Graduate course, Concordia University, Winter 2026
 
 **Lecture 8: New Keynesian Model**
 
-**Lecture 9: HANK Model**
+**Lecture 9: HANK Model**  
+
+**Supplementary: Sequence-Space Jacobian**  
 
 **Lecture 10: Estimation of DSGE Models**
 
