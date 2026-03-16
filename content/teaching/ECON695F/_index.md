@@ -36,7 +36,8 @@ Graduate course, Concordia University, Winter 2026
 **Lecture 7: Krussel-Smith Model**  
 [[slides]](/lecture7.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/KrusellSmith.ipynb)
 
-**Lecture 8: New Keynesian Model**
+**Lecture 8: New Keynesian Model**  
+[[slides]](/lecture8.pdf) 
 
 **Lecture 9: HANK Model**  
 
