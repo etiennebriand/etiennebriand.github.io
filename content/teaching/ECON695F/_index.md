@@ -40,6 +40,7 @@ Graduate course, Concordia University, Winter 2026
 [[slides]](/lecture8.pdf) 
 
 **Lecture 9: HANK Model**  
+[[slides]](/lecture9.pdf) 
 
 **Supplementary: Sequence-Space Jacobian**  
 
