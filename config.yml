@@ -115,8 +115,9 @@ params:
                "
                #NB: 3px underlines everything, 1 is default
           imageUrl: "picture.jpeg"
-          imageWidth: 220
-          imageHeight: 220
+          #imageUrl: "pic.jpeg"
+          imageWidth: 220   #220
+          imageHeight: 220  #220
           buttons:
             #- name: Research
             #  url: research/
