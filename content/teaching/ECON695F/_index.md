@@ -37,20 +37,19 @@ Graduate course, Concordia University, Winter 2026
 [[slides]](/lecture7.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/KrusellSmith.ipynb)
 
 **Lecture 8: New Keynesian Model**  
-[[slides]](/lecture8.pdf) 
+[[slides]](/lecture8.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/jpt_model.ipynb)  
 
 **Lecture 9: HANK Model**  
-[[slides]](/lecture9.pdf) 
+[[slides]](/lecture9.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/hank_ssj.ipynb)  
 
-**Supplementary: Sequence-Space Jacobian**  
+<--! **Supplementary: Sequence-Space Jacobian**  -->
 
 **Lecture 10: Estimation of DSGE Models**  
-[[slides]](/lecture10.pdf) 
+[[slides]](/lecture10.pdf)
 
 **Homework**  
 [*Micro Jumps, Macro Humps*,  Auclert, Rognlie and Straub (2020)](https://web.stanford.edu/~aauclert/mjmh.pdf)  
-[[problem set]](/homework.pdf) 
+[[problem set]](/homework.pdf)
 
 **Final Exam**  
 <small>The exam will be held on April 22<sup>nd</sup>, 10am–1pm, and will cover all lectures.</small>
-
