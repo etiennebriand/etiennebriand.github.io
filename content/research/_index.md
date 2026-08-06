@@ -15,7 +15,7 @@ For a brief overview of the papers listed below and other ongoing projects, see 
 [Rationally Inattentive Heterogenous Agents](/riha.pdf)  [[slides]](/riha_slides.pdf)  
 *Latest draft October 2025*.    
 
-Quantifying the Effect of Noisy TFP News on Business Cycles  [[slides]](/slides_noisy_news.pdf)   
+Quantifying the Effects of Noisy TFP News on Business Cycles  [[slides]](/slides_noisy_news.pdf)   
  (with Patrick Fève and Alain Guay)  
 
 <style>
