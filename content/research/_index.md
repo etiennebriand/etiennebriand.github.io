@@ -13,7 +13,8 @@ For a brief overview of the papers listed below and other ongoing projects, see 
 *Latest draft October 2025*.-->
 ## <u style="text-underline-offset: 4pt;">Selected Work in Progress</u>  
 [Rationally Inattentive Heterogenous Agents](/riha.pdf)  [[slides]](/riha_slides.pdf)  
-*Latest draft October 2025*.  
+*Latest draft October 2025*.    
+
 Quantifying the Effect of Noisy TFP News on Business Cycles  [[slides]](/slides_noisy_news.pdf)   
  (with Patrick Fève and Alain Guay)  
 
