@@ -12,40 +12,14 @@ For a brief overview of the papers listed below and other ongoing projects, see 
 [Rationally Inattentive Heterogenous Agents](/riha.pdf)  [[slides]](/riha_slides.pdf)  
 *Latest draft October 2025*.-->
 ## <u style="text-underline-offset: 4pt;">Selected Work in Progress</u>  
+[Macroeconomic Shocks and Their Propagation under Rational Inattention](/rivsnk_final.pdf)  [[slides]](/rivsnk_slides.pdf)  
+*Latest draft August 2026*.   
+
 [Rationally Inattentive Heterogenous Agents](/riha.pdf)  [[slides]](/riha_slides.pdf)  
-*Latest draft October 2025*.    
+*Latest draft October 2025*.  
 
 Quantifying the Effects of Noisy TFP News on Business Cycles  [[slides]](/slides_noisy_news.pdf)   
  (with Patrick Fève and Alain Guay)  
-
-<style>
-summary {
-  list-style: none;                  /* removes the arrow in Firefox */
-  cursor: pointer;
-  color: inherit;                    /* keep same text color */
-}
-summary .paper-title {
-  text-decoration: underline;        /* underline the title only */
-  text-decoration-color: #9b59b6;    /* your purple underline */
-  text-decoration-thickness: 2px;    /* make the underline thicker */
-  text-underline-offset: 4px;        /* increase space between text and underline */
-}
-summary a {
-  text-decoration: none;             /* no underline on the slides link */
-  color: inherit;
-}
-summary::-webkit-details-marker {
-  display: none;                     /* removes the arrow in Chrome/Safari */
-}
-</style>
-
-<details>
-<summary><span class="paper-title">Macroeconomic Shocks and Their Propagation under Rational Inattention</span> <a href="/rivsnk_slides.pdf">[slides]</a></summary>
-We estimate a medium-scale dynamic stochastic general equilibrium model with rational inattention (RI-DSGE) that matches macroeconomic evidence on impulse responses to a monetary policy shock. We find that while rational inattention alone can substitute for most New Keynesian sources of inertia in prices and quantities, capital adjustment costs are essential to fit the data.
-</details>
-
-*Draft available upon request*  
-
 ## <u style="text-underline-offset: 4pt;">Working Paper</u>  
  [Inflation, Attention and Expectations](/BMS_AttentionInflationExpectations.pdf)   
  (with Massimiliano Marcellino and Dalibor Stevanovic)  
