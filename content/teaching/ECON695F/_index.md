@@ -42,7 +42,7 @@ Graduate course, Concordia University, Winter 2026
 **Lecture 9: HANK Model**  
 [[slides]](/lecture9.pdf) [[notebook]](https://github.com/etiennebriand/ComputationalEconomics/blob/main/hank_ssj.ipynb)  
 
-<--! **Supplementary: Sequence-Space Jacobian**  -->
+<!-- **Supplementary: Sequence-Space Jacobian**  -->
 
 **Lecture 10: Estimation of DSGE Models**  
 [[slides]](/lecture10.pdf)
