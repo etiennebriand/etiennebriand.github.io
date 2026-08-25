@@ -19,8 +19,8 @@ menu:
         - name: Teaching
           url: teaching/
           weight: 2
-        - name: Codes
-          url: codes/
+        #- name: Codes
+        #  url: codes/
           #https://github.com/etiennebriand
           weight: 3
         #- name: Papers
@@ -52,7 +52,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["research","teaching","codes",]
+    MainSections: ["research","teaching"] # "codes",
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -104,15 +104,15 @@ params:
                 text-underline-offset: 3px;
                 '>[Teaching]</span>
                 </a>
-                 &nbsp;
-                 <a href='/codes/'>
-                  <span style='
-                  text-decoration: underline;
-                  text-decoration-color: #9b59b6;
-                  text-underline-offset: 3px;
-                  '>[Codes]</span>
-                  </a>
                "
+                # &nbsp;
+                # <a href='/codes/'>
+                # <span style='
+                # text-decoration: underline;
+                # text-decoration-color: #9b59b6;
+                # text-underline-offset: 3px;
+                 #'>[Codes]</span>
+                 # </a>
                #NB: 3px underlines everything, 1 is default
           imageUrl: "picture.jpeg"
           #imageUrl: "pic.jpeg"
