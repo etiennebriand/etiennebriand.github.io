@@ -12,7 +12,7 @@ For a brief overview of the papers listed below and other ongoing projects, see 
 [Rationally Inattentive Heterogenous Agents](/riha.pdf)  [[slides]](/riha_slides.pdf)  
 *Latest draft October 2025*.-->
 ## <u style="text-underline-offset: 4pt;">Selected Work in Progress</u>  
-[Macroeconomic Shocks and Their Propagation under Rational Inattention](/rivsnk_final.pdf)  [[slides]](/rivsnk_slides.pdf)  
+[Macroeconomic Shocks and Their Propagation under Rational Inattention](/inattention-medium-dsge.pdf)  [[slides]](/rivsnk_slides.pdf)  
 *Latest draft August 2026*.   
 
 [Rationally Inattentive Heterogenous Agents](/riha.pdf)  [[slides]](/riha_slides.pdf)  
