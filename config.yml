@@ -114,7 +114,8 @@ params:
                  #'>[Codes]</span>
                  # </a>
                #NB: 3px underlines everything, 1 is default
-          imageUrl: "picture.jpeg"
+          imageUrl: "portrait.png"
+          #imageUrl: "picture.jpeg"
           #imageUrl: "pic.jpeg"
           imageWidth: 220   #220
           imageHeight: 220  #220
