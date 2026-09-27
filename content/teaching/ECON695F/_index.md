@@ -48,7 +48,7 @@ Graduate course, Concordia University, Winter 2026
 [[slides]](/lecture10.pdf)
 
 **Homework**  
-[*Micro Jumps, Macro Humps*,  Auclert, Rognlie and Straub (2020)](https://web.stanford.edu/~aauclert/mjmh.pdf)  
+[[*Micro Jumps, Macro Humps*,  Auclert, Rognlie and Straub (2020)]](https://web.stanford.edu/~aauclert/mjmh.pdf)  
 [[problem set]](/homework.pdf)
 
 **Final Exam**  
