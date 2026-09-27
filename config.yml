@@ -88,10 +88,6 @@ params:
                I am a PhD candidate @UQAM. My main research interests are at the intersection of
                macroeconomics and information economics (mostly rational inattention). More generally, I am interested in how expectations are formed and how they shape economic outcomes.
                <br><br>
-               \"<i>One definition of an economist is somebody who sees something happen in practice and wonders
-               if it will work in theory</i>.\"
-               Ronald Reagan (via Mike Wickens)
-               <br><br>
                <a href='/research/'>
                <u style='text-decoration-color:#9b59b6;
                text-underline-offset: 3px;
@@ -105,6 +101,10 @@ params:
                 text-underline-offset: 3px;
                 '>[Teaching]</span>
                 </a>
+               <br><br>
+               <small>\"<i>One definition of an economist is somebody who sees something happen in practice and wonders
+               if it will work in theory</i>.\"
+               Ronald Reagan (via Mike Wickens)</small>
                "
                 # &nbsp;
                 # <a href='/codes/'>
