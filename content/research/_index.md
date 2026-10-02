@@ -11,7 +11,7 @@ For a brief overview of the papers listed below and other ongoing projects, see 
 ## <u style="text-underline-offset: 4pt;">Job Market Paper</u>
 
 **Macroeconomic Shocks \& Their Propagation under Rational Inattention**  
-[[paper]](/inattention-medium-dsge.pdf)&nbsp;&nbsp;&nbsp;[[slides]](/rivsnk_slides.pdf)   
+[[paper]](/inattention-medium-dsge.pdf)&nbsp;&nbsp;&nbsp;[[slides]](/rivsnk_slides.pdf)&nbsp;&nbsp;&nbsp;[[bibtex]](/inattention-medium-scale-bibtex.txt)  
 
 ## <u style="text-underline-offset: 4pt;">Working Papers</u>  
 

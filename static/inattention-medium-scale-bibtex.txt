@@ -1,0 +1,7 @@
+@unpublished{Briand2026,
+  author = {Briand, Etienne},
+  title  = {Macroeconomic Shocks \& Their Propagation under Rational Inattention},
+  note   = {Working paper},
+  year   = {2026},
+  url    = {https://etiennebriand.github.io/inattention-medium-dsge.pdf}
+}
