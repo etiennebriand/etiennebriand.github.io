@@ -1,4 +1,4 @@
-@unpublished{Briand2026,
+@unpublished{briand2026inattention,
   author = {Briand, Etienne},
   title  = {Macroeconomic Shocks \& Their Propagation under Rational Inattention},
   note   = {Working paper},
