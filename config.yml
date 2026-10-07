@@ -79,9 +79,11 @@ params:
          #<br><br>
          #<br><br>
           subtitle: "
-             <small><a href='mailto:etiennebriand1@gmail.com'><u style='text-decoration-color:#9b59b6;text-underline-offset: 3px;'>[etiennebriand1@gmail.com]</u></a>
+              <small><a href='mailto:etiennebriand1@gmail.com'><u style='text-decoration-color:#9b59b6;text-underline-offset: 3px;'>[etiennebriand1@gmail.com]</u></a>
              &nbsp; <a href='/cv.pdf'>
-             <u style='text-decoration-color:#9b59b6;text-underline-offset: 3px;'>[CV]</u> </a></small>
+             <u style='text-decoration-color:#9b59b6;text-underline-offset: 3px;'>[CV]</u> </a>
+             &nbsp; <a href='https://en.wikipedia.org/wiki/%C3%89tienne_Briand' target='_blank' rel='noopener'>
+             <u style='text-decoration-color:#9b59b6;text-underline-offset: 3px;'>[Wikipedia]</u> </a></small>
              <br><br>
              <b>I am on the 2026/2027 Job Market.</b>
              <br><br>
