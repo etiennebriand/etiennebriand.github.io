@@ -16,6 +16,10 @@ For a brief overview of the papers listed below and other ongoing projects, see 
 
 ## <u style="text-underline-offset: 4pt;">Working Papers</u>  
 
+**Solving Dynamic Models with Rational Inattention**<br>
+<span style="font-size:14px; font-weight:normal;"><em>Toolbox available upon request.</em></span><br>
+[[paper]](/solving-ri-dsge.pdf)
+
 **Noisy Expectations \& Business Cycles**  
 <small><em>with Patrick Fève and Alain Guay</em></small>  
 [[paper]](/noisy-news.pdf)&nbsp;&nbsp;&nbsp;[[slides]](/slides_noisy_news.pdf)  
@@ -26,8 +30,8 @@ For a brief overview of the papers listed below and other ongoing projects, see 
 
 ## <u style="text-underline-offset: 4pt;">Selected Work in Progress</u><br><span style="font-size:14px; font-weight:normal;"><em>Drafts available upon request.</em></span>
 
+**Capital Ownership \& Optimal Monetary Policy under Rational Inattention**  
+
 **Monetary Policy with Inattentive Heterogeneous Households**  
 <small><em>previously circulated as “Rationally Inattentive Heterogeneous Agents”</em></small>  
 [[previous version]](/riha.pdf)&nbsp;&nbsp;&nbsp;[[slides]](/riha_slides.pdf)
-
-**Solving Dynamic Models with Rational Inattention**
