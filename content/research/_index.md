@@ -30,7 +30,7 @@ For a brief overview of the papers listed below and other ongoing projects, see 
 
 ## <u style="text-underline-offset: 4pt;">Selected Work in Progress</u><br><span style="font-size:14px; font-weight:normal;"><em>Drafts available upon request.</em></span>
 
-**Capital Ownership \& Optimal Monetary Policy under Rational Inattention**  
+<!--**Capital Ownership \& Optimal Monetary Policy under Rational Inattention** --> 
 
 **Monetary Policy with Inattentive Heterogeneous Households**  
 <small><em>previously circulated as “Rationally Inattentive Heterogeneous Agents”</em></small>  
